@@ -1,3 +1,4 @@
+// Program of queue of inserting
 #include<iostream>
 #include<queue>
 using namespace std;
