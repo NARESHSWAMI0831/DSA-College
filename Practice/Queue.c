@@ -1,3 +1,4 @@
+// program of insertion
 // #include<stdio.h>
 
 // struct  PriorityQ
