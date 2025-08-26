@@ -16,4 +16,7 @@ int findmin(int* nums, int numssize){
     int result=findmin(nums,5);
     printf("Minimum element is %d\n", nums[result]);
     return 0;
+
 }
+
+// output
